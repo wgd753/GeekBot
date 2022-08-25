@@ -42,7 +42,7 @@ class Plugin extends Bot {
       });
     }
     await this.sendMarkdown(`
-彩云天气 🌤 <font color="info">${addr || ''}</font>
+阿澍天气预报 🌤 <font color="info">${addr || ''}</font>
 
 **降雨提醒：**
 > <font color="warning">${data.result.minutely.description.trim()}</font>
