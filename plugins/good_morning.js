@@ -1,4 +1,4 @@
-// 早安心语
+// 早安各位，我是阿澍
 // 早上是阳光太阳东升的时间，一句励志的话给新的一天注入动力。
 // 注意：需申请API KEY，设置到secrets中，名称：tianapi_key
 // https://www.tianapi.com/apiview/143
